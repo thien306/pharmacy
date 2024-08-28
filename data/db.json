@@ -1,0 +1,251 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "PROD-0001",
+      "name": "thuốc đau bụng",
+      "price": 33990000,
+      "quantity": 5,
+      "dateOfPurchase": "2024-08-27",
+      "classroom": {
+        "id": 1,
+        "name": "thực phẩm chức năng"
+      }
+    },
+    {
+      "id": 2,
+      "code": "PROD-0002",
+      "name": "tình ta hai ngã",
+      "dateOfPurchase": "2024-08-27",
+      "price": "33990000",
+      "quantity": "05",
+      "totalAmount": 169950000,
+      "classroom": {
+        "id": 1,
+        "name": "thực phẩm chức năng"
+      }
+    },
+    {
+      "id": 3,
+      "code": "PROD-0003",
+      "name": "iphone 15 pro max",
+      "dateOfPurchase": "2024-08-11",
+      "price": "33990000",
+      "quantity": "05",
+      "totalAmount": 169950000,
+      "classroom": {
+        "id": 1,
+        "name": "thực phẩm chức năng"
+      }
+    },
+    {
+      "id": 4,
+      "code": "PROD-0004",
+      "name": "iphone 15 pro max",
+      "dateOfPurchase": "2024-08-07",
+      "price": "320000",
+      "quantity": "6",
+      "totalAmount": 1920000,
+      "classroom": {
+        "id": 3,
+        "name": "dược phẩm"
+      }
+    },
+    {
+      "id": 5,
+      "code": "PROD-0005",
+      "name": "iphone 14 pro max",
+      "dateOfPurchase": "2024-08-06",
+      "price": "20000",
+      "quantity": "05",
+      "totalAmount": 100000,
+      "classroom": {
+        "id": 1,
+        "name": "thực phẩm chức năng "
+      }
+    },
+    {
+      "id": 6,
+      "code": "PROD-0006",
+      "name": "fgfytj",
+      "dateOfPurchase": "2024-08-27",
+      "price": "343",
+      "quantity": "3",
+      "totalAmount": 1029,
+      "classroom": {
+        "id": 2,
+        "name": "thiết bị y tế"
+      }
+    },
+    {
+      "id": "cb5a",
+      "code": "PROD-1235",
+      "name": "thuốc xổ",
+      "classroom": {
+        "id": "2"
+      },
+      "quantity": 6,
+      "price": 950000,
+      "dateOfPurchase": "2024-08-28",
+      "totalAmount": 5700000
+    },
+    {
+      "id": "8df1",
+      "code": "PROD-1234",
+      "name": "thuốc xổ",
+      "classroom": {
+        "id": "2"
+      },
+      "quantity": 6,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28",
+      "totalAmount": 203940000
+    },
+    {
+      "id": "319b",
+      "code": "PROD-1209",
+      "name": "thuốc a",
+      "classroom": {
+        "id": "2"
+      },
+      "quantity": 6,
+      "price": 45990000,
+      "dateOfPurchase": "2024-08-28",
+      "totalAmount": 275940000
+    },
+    {
+      "id": "863f",
+      "code": "PROD-1210",
+      "name": "thuốc b",
+      "classroom": {
+        "id": "2"
+      },
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28",
+      "totalAmount": 169950000
+    },
+    {
+      "id": "3d3c",
+      "code": "PROD-1111",
+      "name": "nguyễn văn thơ",
+      "classroom": {
+        "id": "2"
+      },
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28",
+      "totalAmount": 169950000
+    },
+    {
+      "id": "5b64",
+      "code": "PROD-1112",
+      "name": "thiên quốc",
+      "classroom": "1",
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28"
+    },
+    {
+      "id": "9b5a",
+      "code": "PROD-1289",
+      "name": "dgsv",
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28"
+    },
+    {
+      "id": "f175",
+      "code": "PROD-1288",
+      "name": "adgdaf",
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28"
+    },
+    {
+      "id": "0f13",
+      "code": "PROD-1238",
+      "name": "tình ta hai ngã",
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28"
+    },
+    {
+      "id": "7f71",
+      "code": "PROD-1238",
+      "name": "thơ yyyyyy",
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28",
+      "classroom": {
+        "id": 1,
+        "name": "thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "cde3",
+      "code": "PROD-1234",
+      "name": "tình ta ",
+      "classroom": 1,
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28"
+    },
+    {
+      "id": "3f10",
+      "code": "PROD-1235",
+      "name": "dsgsd",
+      "classroom": null,
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28"
+    },
+    {
+      "id": "b1c4",
+      "code": "PROD-1209",
+      "name": "MTFK PROJECT ( SEVEN ) - MYSTERIOUS ( VỊ BÍ ẨN LẠNH ) - SALT NICOTINE",
+      "classroom": 3,
+      "quantity": 5,
+      "price": 33990000,
+      "dateOfPurchase": "2024-08-28"
+    },
+    {
+      "id": "83d7",
+      "code": "PROD-1294",
+      "name": "dsgdstho",
+      "classroom": {
+        "id": 2,
+        "name": "thiết bị y tế"
+      },
+      "quantity": 5,
+      "price": 41890000,
+      "dateOfPurchase": "2024-08-28"
+    },
+    {
+      "id": "4924",
+      "code": "PROD-1111",
+      "name": "thuốc an thần",
+      "classroom": {
+        "id": 1,
+        "name": "thực phẩm chức năng"
+      },
+      "quantity": 5,
+      "price": 111111,
+      "dateOfPurchase": "2024-08-28"
+    }
+  ],
+  "classrooms": [
+    {
+      "id": 1,
+      "name": "thực phẩm chức năng"
+    },
+    {
+      "id": 2,
+      "name": "thiết bị y tế"
+    },
+    {
+      "id": 3,
+      "name": "dược phẩm"
+    }
+  ]
+}
